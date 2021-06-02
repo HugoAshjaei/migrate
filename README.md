@@ -11,7 +11,7 @@ This repository has been built and is being updated only to show the average of 
 | --- | --- | --- | --- | --- |
 | Bahrain | 7260 | 15840 | 25200 | 10800 |
 | Indonesia | 66918000 | 145920000 | 231420000 | 324000000 |
-  | Japan | 2334732 | 4841364 | 7331784 | 5847600 |
+| Japan | 2334732 | 4841364 | 7331784 | 5847600 |
 | Kuwait | 6228 | 13524 | 21480 | 10380 |
 | Malaysia | 32940 | 67812 | 99828 | 80844 |
 | Oman | 8484 | 18420 | 29352 | 13140 |
@@ -29,7 +29,12 @@ This repository has been built and is being updated only to show the average of 
 | United States of America | 32785 | 64952 | 97000 | 42714 |
 
 ## South America
-
+| Contry name | Minimum net income | Average net income | High net income | Living costs |
+| --- | --- | --- | --- | --- |
+| Argentina | 221360 | 449273 | 676889 | 1354134 |
+| Paraguay | 38732000 | 83674000 | 132450000 | 107990448 |
+| Japan | 184000 | 397059 | 603973 | 1078728 |
+  
 ## Europe
 
 ## Oceania
