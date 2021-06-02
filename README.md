@@ -3,6 +3,7 @@ This repository has been built and is being updated only to show the average of 
 ### Tips:
 1. All amounts are in the currency code of the country
 2. All amounts are in the year!
+3. You can help me to add or update this list ::)
 
 ## Asia
 | Contry name | Minimum net income | Average net income | High net income | Living costs |
