@@ -33,7 +33,6 @@ This repository has been built and is being updated only to show the average of 
 | --- | --- | --- | --- | --- |
 | Argentina | 221360 | 449273 | 676889 | 1354134 |
 | Paraguay | 38732000 | 83674000 | 132450000 | 107990448 |
-| Japan | 184000 | 397059 | 603973 | 1078728 |
 
 
 ## Oceania
